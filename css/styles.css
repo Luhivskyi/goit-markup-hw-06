@@ -1139,7 +1139,7 @@ body {
   color: var(--primary-text-color);
 }
 
-.form-txt {
+.form-field label.form-txt {
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
